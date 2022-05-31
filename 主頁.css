@@ -17,7 +17,7 @@
 .u-section-1 .u-text-2 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
-  margin: 30px 157px 56px;
+  margin: 30px auto 56px;
 }
 
 @media (max-width: 1199px) {
@@ -32,8 +32,6 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 57px;
-    margin-right: 57px;
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
@@ -43,11 +41,6 @@
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
     min-height: 500px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
