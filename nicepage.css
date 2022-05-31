@@ -36629,12 +36629,20 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 269px;
+}
+
+.u-footer .u-menu-1 {
+  margin: 56px auto 0;
+}
+
+.u-footer .u-nav-2 {
+  font-size: 1.25rem;
 }
 
 .u-footer .u-text-1 {
-  width: 87px;
-  margin: 48px auto 0;
+  width: 845px;
+  margin: 30px auto 0;
 }
 
 .u-footer .u-social-icons-1 {
@@ -36658,8 +36666,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
     width: 540px;
-    margin-top: 143px;
-    margin-bottom: 32px;
   }
 }
 @media (max-width: 575px) {
